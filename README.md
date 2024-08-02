@@ -26,14 +26,14 @@ Trendify is a social media app designed to help users discover and engage with t
    ```
    ```bash
    npm run dev
-3.*Set up the BackEnd by the following Comands:*
+2. *Set up the BackEnd by the following Comands:*
   ```bash
    npm install
   ```
   ```bash
   npm start
   ```
-4. Set up your profile and start exploring!
+3. *Set up your profile and start exploring!*
 
 ## Usage
 
