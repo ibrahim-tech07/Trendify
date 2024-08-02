@@ -20,9 +20,20 @@ Trendify is a social media app designed to help users discover and engage with t
 
 ### Installation
 
-1. Download the app from the [App Store](#) or [Google Play Store](#).
-2. Open the app and create an account or log in with your existing account.
-3. Set up your profile and start exploring!
+1. *Set up the FrontEnd by the following Comands:*
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm run dev
+3.*Set up the BackEnd by the following Comands:*
+  ```bash
+   npm install
+  ```
+  ```bash
+  npm start
+  ```
+4. Set up your profile and start exploring!
 
 ## Usage
 
@@ -41,10 +52,6 @@ We welcome contributions to improve Trendify! Here’s how you can help:
 3. Commit your changes (git commit -m 'Add some feature').
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
